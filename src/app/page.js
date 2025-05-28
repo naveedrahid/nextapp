@@ -6,7 +6,7 @@ export default function Home() {
         <main>
             <BootstrapClient />
             <Header />
-            <h1>Test Home</h1>
+            <h1>Test Home </h1>
         </main>
     );
 }
